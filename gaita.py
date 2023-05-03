@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("ini adalah aplikasi menghitung kadar air")
+st.write("Aplikasi Menghitung Kadar Air")
 
 W1=st.number_input("masukkan nilai bobot sebelum dipanaskan")
 W2=st.number_input("masukkan nilai bobot setelah dipanaskan")
